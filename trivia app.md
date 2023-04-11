@@ -1,4 +1,5 @@
 Trivia App
+
 General Requirements:
 
 You must use a good structure for your app. Separate code in different files as you see fit.
